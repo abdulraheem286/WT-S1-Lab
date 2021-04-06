@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block1 {
+  background-color: #25525e;
+  color: white;
+  margin-top: 50px;
+  padding-top: 15px;
+  max-height: 400px;
+}
+
+.bullets .square-bullet {
+  color: rgb(212, 151, 38);
+  display: inline-block;
+}
+.square {
+  list-style-type: square;
+  list-style-type: style color;
+}
+
+.bullet-point {
+  color: white;
+}
+.Intro-text {
+  color: #25525e;
+  font-size: 25px;
+  font-weight: bold;
+}
+.image {
+  width: 100%;
+}
+.text {
+  font-size: 14px;
+  font-family: "Open Sans";
+  margin-top: 20px;
+}
+.back {
+  margin-left: 100px;
+}
+.footer {
+  width: 100%;
+  height: 40px;
+  background-color: #fca834;
+  font-weight: 400;
+}
+.span {
+  color: #25525e;
+}
